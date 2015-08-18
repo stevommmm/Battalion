@@ -1,0 +1,12 @@
+name: Battalion
+main: com.c45y.Battalion.Battalion
+version: ${project.version}
+author: C45Y
+
+permissions:
+    battalion.op:
+        description: Battalion administrator
+        default: op
+commands:
+  battalion:
+    description: Battalion administrative command

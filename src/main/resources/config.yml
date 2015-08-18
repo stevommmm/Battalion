@@ -1,0 +1,23 @@
+decay:
+  timer: 3600000
+  value: 1
+  lastrun: 0
+eventvalue:
+  kill: 1
+  death: 1
+ranks:
+  DARK_BLUE: 0
+  DARK_GREEN: 10
+  DARK_AQUA: 20
+  DARK_RED: 30
+  DARK_PURPLE: 40
+  GOLD: 50
+  GRAY: 60
+  DARK_GRAY: 70
+  BLUE: 80
+  GREEN: 90
+  AQUA: 100
+  RED: 110
+  LIGHT_PURPLE: 120
+  YELLOW: 130
+  WHITE: 140
